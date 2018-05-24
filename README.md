@@ -1,0 +1,2 @@
+# WorkList
+Task List App with Pomodoro Timer is a task management application with Pomodoro timer. The Pomodoro Technique teaches user to work with time, instead of struggling against it. A revolutionary time management system, it is at once deceptively simple to learn and life-changing to use. User can create tasks, set deadlines, reminders and set up Pomodoro for every task created. • Technologies - C#, Windows Forms, MS SQL
