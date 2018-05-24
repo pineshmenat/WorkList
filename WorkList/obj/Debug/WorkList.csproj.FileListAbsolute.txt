@@ -1,0 +1,9 @@
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\bin\Debug\WorkList.exe
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\bin\Debug\WorkList.exe.config
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.Form1.resources
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.Properties.Resources.resources
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.csproj.GenerateResource.Cache
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.exe
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.pdb
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\bin\Debug\WorkList.pdb
+D:\Projects\HumberPG-ITS\Visual Studio Workspace\WorkList\WorkList\obj\Debug\WorkList.csprojResolveAssemblyReference.cache
